@@ -1,0 +1,22 @@
+.article-page__toolbar {
+  margin-bottom: 50px;
+}
+
+.back-button {
+  height: 50px;
+  -webkit-appearance: none;
+  background-color: #f3f3f3;
+  padding: 0 31px 0 22px;
+  border: none;
+
+  font-size: 18px;
+
+  cursor: pointer;
+}
+
+.arrow-left {
+  display: inline-block;
+  width: 22px;
+  vertical-align: middle;
+  margin-right: 22px;
+}

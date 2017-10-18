@@ -1,0 +1,19 @@
+.article-page {
+  padding: 45px 0;
+}
+
+.article-page__not-found {
+  text-align: center;
+  font-size: 20px;
+  margin: 0;
+}
+
+.article-page__title {
+  font-size: 28px;
+  margin-top: 0;
+  margin-top: 34px;
+}
+
+.article-page__text {
+  font-size: 18px;
+}
