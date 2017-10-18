@@ -1,0 +1,19 @@
+.form-field {
+  width: 100%;
+}
+
+.form-field + .form-field {
+  margin-top: 20px;
+}
+
+.form-field_align_center {
+  text-align: center;
+}
+
+.form-field_align_left {
+  text-align: left;
+}
+
+.form-field_align_right {
+  text-align: right;
+}
