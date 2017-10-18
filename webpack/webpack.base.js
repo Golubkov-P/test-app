@@ -15,6 +15,7 @@ module.exports = {
       library: path.resolve(__dirname, '../app/components-library'),
       components: path.resolve(__dirname, '../app/app-components'),
       api: path.resolve(__dirname, '../app/api'),
+      store: path.resolve(__dirname, '../app/store'),
     },
   },
 };
