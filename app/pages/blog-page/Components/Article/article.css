@@ -1,0 +1,36 @@
+.article__wrapper {
+  width: 100%;
+  padding: 45px 0 0;
+  background-color: #fff;
+}
+
+.article__wrapper:nth-child(even) {
+  background-color: #f3f3f3;
+}
+
+.article {
+  border-bottom: 1px solid #dadada;
+  padding-bottom: 35px;
+}
+
+.article:last-of-type {
+  border-bottom: none;
+}
+
+.article__title {
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 40px;
+  text-decoration: none;
+  color: #000;
+  display: block;
+}
+
+.article__title:hover {
+  text-decoration: underline;
+}
+
+.article__description {
+  font-size: 18px;
+  margin: 0;
+}
